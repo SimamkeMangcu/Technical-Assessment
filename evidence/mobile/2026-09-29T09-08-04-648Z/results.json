@@ -1,0 +1,15 @@
+{
+  "startedAt": "2026-09-29T09:08:04.780Z",
+  "status": "passed",
+  "tests": [
+    {
+      "title": "swipes horizontally to the next carousel slide",
+      "status": "passed",
+      "durationMs": 8473,
+      "evidenceErrors": [],
+      "screenshot": "01-swipes-horizontally-to-the-next-carousel-slide.png",
+      "video": "01-swipes-horizontally-to-the-next-carousel-slide.mp4"
+    }
+  ],
+  "finishedAt": "2026-09-29T09:09:22.170Z"
+}

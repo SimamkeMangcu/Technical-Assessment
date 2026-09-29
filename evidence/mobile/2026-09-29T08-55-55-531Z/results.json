@@ -1,0 +1,56 @@
+{
+  "startedAt": "2026-09-29T08:55:55.717Z",
+  "status": "failed or interrupted",
+  "tests": [
+    {
+      "title": "signs up and shows confirmation",
+      "status": "passed",
+      "durationMs": 21451,
+      "evidenceErrors": [],
+      "screenshot": "01-signs-up-and-shows-confirmation.png",
+      "video": "01-signs-up-and-shows-confirmation.mp4"
+    },
+    {
+      "title": "logs in with valid-format input and shows success",
+      "status": "passed",
+      "durationMs": 14162,
+      "evidenceErrors": [],
+      "screenshot": "02-logs-in-with-valid-format-input-and-shows-success.png",
+      "video": "02-logs-in-with-valid-format-input-and-shows-success.mp4"
+    },
+    {
+      "title": "rejects a password shorter than eight characters",
+      "status": "passed",
+      "durationMs": 7952,
+      "evidenceErrors": [],
+      "screenshot": "03-rejects-a-password-shorter-than-eight-characters.png",
+      "video": "03-rejects-a-password-shorter-than-eight-characters.mp4"
+    },
+    {
+      "title": "reflects form input, toggle state and submit alert",
+      "status": "passed",
+      "durationMs": 9472,
+      "evidenceErrors": [],
+      "screenshot": "04-reflects-form-input-toggle-state-and-submit-alert.png",
+      "video": "04-reflects-form-input-toggle-state-and-submit-alert.mp4"
+    },
+    {
+      "title": "swipes horizontally to the next carousel slide",
+      "status": "failed",
+      "durationMs": 12649,
+      "error": "Expect $(`android=new UiSelector().text(\"GREAT COMMUNITY\")`) not to be displayed\n\nExpected [not]: \u001b[32m\"\u001b[7mnot \u001b[27mdisplayed\"\u001b[39m\nReceived      : \u001b[31m\"displayed\"\u001b[39m",
+      "evidenceErrors": [],
+      "screenshot": "05-swipes-horizontally-to-the-next-carousel-slide.png",
+      "video": "05-swipes-horizontally-to-the-next-carousel-slide.mp4"
+    },
+    {
+      "title": "bonus: rejects mismatching signup passwords",
+      "status": "passed",
+      "durationMs": 14000,
+      "evidenceErrors": [],
+      "screenshot": "06-bonus-rejects-mismatching-signup-passwords.png",
+      "video": "06-bonus-rejects-mismatching-signup-passwords.mp4"
+    }
+  ],
+  "finishedAt": "2026-09-29T08:59:42.742Z"
+}

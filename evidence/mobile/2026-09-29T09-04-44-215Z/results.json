@@ -1,0 +1,16 @@
+{
+  "startedAt": "2026-09-29T09:04:44.352Z",
+  "status": "failed or interrupted",
+  "tests": [
+    {
+      "title": "swipes horizontally to the next carousel slide",
+      "status": "failed",
+      "durationMs": 16038,
+      "error": "The next carousel card did not move into the visible area after swiping",
+      "evidenceErrors": [],
+      "screenshot": "01-swipes-horizontally-to-the-next-carousel-slide.png",
+      "video": "01-swipes-horizontally-to-the-next-carousel-slide.mp4"
+    }
+  ],
+  "finishedAt": "2026-09-29T09:06:23.936Z"
+}

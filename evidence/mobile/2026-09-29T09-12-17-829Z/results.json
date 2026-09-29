@@ -1,0 +1,55 @@
+{
+  "startedAt": "2026-09-29T09:12:18.064Z",
+  "status": "passed",
+  "tests": [
+    {
+      "title": "signs up and shows confirmation",
+      "status": "passed",
+      "durationMs": 16921,
+      "evidenceErrors": [],
+      "screenshot": "01-signs-up-and-shows-confirmation.png",
+      "video": "01-signs-up-and-shows-confirmation.mp4"
+    },
+    {
+      "title": "logs in with valid-format input and shows success",
+      "status": "passed",
+      "durationMs": 10584,
+      "evidenceErrors": [],
+      "screenshot": "02-logs-in-with-valid-format-input-and-shows-success.png",
+      "video": "02-logs-in-with-valid-format-input-and-shows-success.mp4"
+    },
+    {
+      "title": "rejects a password shorter than eight characters",
+      "status": "passed",
+      "durationMs": 8496,
+      "evidenceErrors": [],
+      "screenshot": "03-rejects-a-password-shorter-than-eight-characters.png",
+      "video": "03-rejects-a-password-shorter-than-eight-characters.mp4"
+    },
+    {
+      "title": "reflects form input, toggle state and submit alert",
+      "status": "passed",
+      "durationMs": 8975,
+      "evidenceErrors": [],
+      "screenshot": "04-reflects-form-input-toggle-state-and-submit-alert.png",
+      "video": "04-reflects-form-input-toggle-state-and-submit-alert.mp4"
+    },
+    {
+      "title": "swipes horizontally to the next carousel slide",
+      "status": "passed",
+      "durationMs": 6573,
+      "evidenceErrors": [],
+      "screenshot": "05-swipes-horizontally-to-the-next-carousel-slide.png",
+      "video": "05-swipes-horizontally-to-the-next-carousel-slide.mp4"
+    },
+    {
+      "title": "bonus: rejects mismatching signup passwords",
+      "status": "passed",
+      "durationMs": 9931,
+      "evidenceErrors": [],
+      "screenshot": "06-bonus-rejects-mismatching-signup-passwords.png",
+      "video": "06-bonus-rejects-mismatching-signup-passwords.mp4"
+    }
+  ],
+  "finishedAt": "2026-09-29T09:15:20.885Z"
+}

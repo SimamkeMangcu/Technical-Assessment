@@ -1,0 +1,8 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="33.635021">
+<testsuite name="booker.spec.js" timestamp="2026-09-28T20:55:55.642Z" hostname="" tests="2" failures="0" skipped="0" time="2.596" errors="0">
+<testcase name="POST /auth returns a nonempty token" classname="booker.spec.js" time="2.206">
+</testcase>
+<testcase name="POST /booking returns a matching booking" classname="booker.spec.js" time="0.39">
+</testcase>
+</testsuite>
+</testsuites>
